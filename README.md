@@ -13,6 +13,5 @@ npm start
 
 ### Finished product
 
-**Web**
+![image](https://user-images.githubusercontent.com/77434770/171288030-60d756f6-3f2a-4233-b18e-075139811206.png)
 
-![image](https://user-images.githubusercontent.com/77434770/171287943-3139f690-30ae-4c33-8a6a-9ddbaf37f648.png)
