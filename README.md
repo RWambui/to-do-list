@@ -14,4 +14,5 @@ npm start
 ### Finished product
 
 **Web**
-![Screenshot](screenshot.png)
+
+![image](https://user-images.githubusercontent.com/77434770/171287943-3139f690-30ae-4c33-8a6a-9ddbaf37f648.png)
