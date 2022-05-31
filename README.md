@@ -14,3 +14,4 @@ npm start
 ### Finished product
 
 **Web**
+![Screenshot](screenshot.png)
