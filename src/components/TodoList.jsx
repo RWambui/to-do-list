@@ -25,15 +25,12 @@ const TodoList = ({todos, setTodos, setEditTodo }) => {
   return (
     <div>
       {todos.map((todo) => (
-        <li 
-        className="list-item" 
-        key={todo.id}
-        >
+        <li className="list-item" key={todo.id} >
           <input 
-          type="text" 
-          value={todo.title} 
-          className='list' 
-          onChange={(e) => e.preventDefault}
+            type="text" 
+            value={todo.title} 
+            className={`list ${todo.completed ? "complete" : ""}`}
+            onChange={(e) => e.preventDefault}
           />
           <button className="button-complete task-button">
             <i className="fa fa-check-circle" onClick={() => completedTask(todo)}></i>

@@ -49,7 +49,7 @@ const Form = ({input, setInput, todos, setTodos, editTodo, setEditTodo}) => {
       <button 
       className="button-add" 
       type="submit">
-        Add
+        {editTodo ? "OK" : "Add"}
       </button>
     </form>
   )
